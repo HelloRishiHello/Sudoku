@@ -1,0 +1,16 @@
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.csprojAssemblyReference.cache
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.AssemblyInfoInputs.cache
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.AssemblyInfo.cs
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.csproj.CoreCompileInputs.cache
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.exe
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.deps.json
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.runtimeconfig.json
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.runtimeconfig.dev.json
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.dll
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\ref\Collectionss.dll
+C:\Users\csaim\source\repos\Collectionss\Collectionss\bin\Debug\net5.0\Collectionss.pdb
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.dll
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\ref\Collectionss.dll
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.pdb
+C:\Users\csaim\source\repos\Collectionss\Collectionss\obj\Debug\net5.0\Collectionss.genruntimeconfig.cache
